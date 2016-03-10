@@ -1,0 +1,3 @@
+---
+filebeat_apt_package: 'filebeat=1.1.*'
+filebeat_apt_state: 'present'
